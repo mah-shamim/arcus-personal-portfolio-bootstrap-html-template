@@ -77,4 +77,4 @@ All you need to do is send the template directory with its files to your hosting
 Contacting Me
 =============
 
-You can reach me by email: lol12ucan@outlook.com
+You can reach me by email: kovatz.it@gmail.com
