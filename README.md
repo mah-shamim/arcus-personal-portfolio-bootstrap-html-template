@@ -5,7 +5,7 @@ ARCUS - PERSONAL PORTFOLIO BOOTSTRAP TEMPLATE
 Arcus - Personal Portfolio is a responsive one-page portfolio website designed with Bootstrap Framework, meant to facilitate the users navigation process and enhance the clients expertise or information with a simplistic design. 
 
 
-**Tech Stack**\
+**Tech Stack**
 - **Frameworks** 
   - BootStrap 
 
