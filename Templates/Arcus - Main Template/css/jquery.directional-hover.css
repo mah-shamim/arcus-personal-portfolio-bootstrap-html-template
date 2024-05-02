@@ -1,0 +1,8 @@
+.dh-container {
+	position: relative;
+	overflow: hidden;
+}
+.dh-overlay {
+	position: absolute;
+	top: -100%;
+}
