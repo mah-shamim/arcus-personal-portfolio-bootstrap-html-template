@@ -44,4 +44,4 @@ Arcus - Personal Portfolio is a responsive one-page portfolio website designed w
   - Open the project folder and navigate to assets/css/ and execute custom.css if you intend to modify the style of the page. In assets/css you will also find all the components used to style the page, and you can edit your information accordingly.
 
 - **References**
-  - All images were downloaded from pexels.com on a free lincese.
+  - All images were downloaded from pixels.com on a free lincese.
