@@ -37,7 +37,7 @@ Arcus - Personal Portfolio is a responsive one-page portfolio website designed w
 - **Installation & Deployment**
   - Clone the folder and modify the content of index.html and assets/css/custom.css according to your requirement. 
   - Add or remove images from /assets/images/ directory as per your requirement. 
-  - To deploy this website, all you need to do is execute the index.html file in a updated browser. 
+  - To deploy this website, all you need to do is execute the index.html file in an updated browser. 
 
 - **Update & Modify**
   - Open the project folder and excute index.html on a integrated development environment (IDE) that you can use to write and modify the content of the page accordingly. 
